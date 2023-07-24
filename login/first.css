@@ -1,0 +1,82 @@
+.color
+{
+    background-color: rgb(133, 169, 235);
+    height: 100vh;
+    background-size: cover;
+}
+
+.image
+{
+    height: 20vh;
+    width: 50vh;
+    margin: 20px;
+}
+
+.image1
+{
+    text-align: center;
+}
+
+.name
+{
+    width: 20vh;
+}
+
+.bg-colour
+{
+    background-color: white;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 18px;
+}
+
+.button
+{
+border-radius: 8px;
+background-color: cornflowerblue;
+
+}
+.bn-center
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.signin
+{
+    text-align: center;
+}
+
+b:hover
+{
+    color: rgb(231, 19, 8);
+}
+
+.top
+{
+    background-color: rgb(56, 56, 199);
+}
+ul {
+    list-style:none;
+    display: flex;
+  
+}
+.muthu{
+    padding: 10px;
+}
+.gopi{
+    height: 50px;
+    width: 300px;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.top1
+{
+    height: 50px;
+    width: 50px;
+}
